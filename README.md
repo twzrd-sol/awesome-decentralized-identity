@@ -79,6 +79,7 @@
 
 - **[ID2020](https://id2020.org/)** - A global initiative focused on providing digital identity for all using blockchain technology.
 - **[The Sovrin Network](https://sovrin.org/)** - A public utility for decentralized identity.
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - Verifiable trust receipts for Solana AI agents. Cryptographically signed `twzrd.receipt.v5` attestations proving agent wallet identity and trust score — structurally similar to W3C Verifiable Credentials for the AI agent layer. MCP-native: zero-install integration.
 - **[Veramo](https://veramo.io/)** - A JavaScript framework for creating decentralized identity solutions.
 - **[BrightID](https://www.brightid.org/)** - A project focused on providing decentralized proof of uniqueness.
 - **[Ceramic Network](https://ceramic.network/)** - A platform for building identity and data protocols using DIDs.
